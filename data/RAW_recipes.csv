@@ -1,0 +1,81 @@
+id,name,tags
+1000,Classic Chocolate Cake,dessert
+1001,Vanilla Bean Cupcakes,dessert
+1002,Blueberry Cheesecake Bars,dessert
+1003,Salted Caramel Brownies,dessert
+1004,Lemon Tartlets,dessert
+1005,Cinnamon Apple Crisp,dessert
+1006,Raspberry Sorbet,dessert
+1007,Pumpkin Spice Cookies,dessert
+1008,Peanut Butter Fudge,dessert
+1009,Strawberry Shortcake,dessert
+1010,Hearty Lentil Soup,soup
+1011,Roasted Tomato Basil Soup,soup
+1012,Chicken Noodle Comfort Soup,soup
+1013,Spicy Thai Coconut Soup,soup
+1014,Creamy Mushroom Bisque,soup
+1015,Butternut Squash Soup,soup
+1016,Moroccan Chickpea Stew,soup
+1017,Miso Ginger Broth,soup
+1018,Seafood Chowder,soup
+1019,White Bean Kale Soup,soup
+1020,Mediterranean Quinoa Salad,salad
+1021,Citrus Kale Crunch Salad,salad
+1022,Roasted Beet Goat Cheese Salad,salad
+1023,Southwest Black Bean Salad,salad
+1024,Caprese Pesto Pasta Salad,salad
+1025,Asian Sesame Noodle Salad,salad
+1026,Summer Berry Spinach Salad,salad
+1027,Warm Farro Veggie Salad,salad
+1028,Greek Chickpea Cucumber Salad,salad
+1029,Herbed Potato Picnic Salad,salad
+1030,Garlic Shrimp Scampi Pasta,pasta
+1031,Creamy Alfredo Tortellini,pasta
+1032,Roasted Vegetable Lasagna,pasta
+1033,Pesto Chicken Penne,pasta
+1034,Spinach Artichoke Ravioli,pasta
+1035,Lemon Butter Orzo,pasta
+1036,Smoky Sausage Rigatoni,pasta
+1037,Sun-Dried Tomato Linguine,pasta
+1038,Caramelized Onion Gnocchi,pasta
+1039,Butternut Squash Ravioli,pasta
+1040,Herb Crusted Salmon Fillet,seafood
+1041,Citrus Grilled Shrimp Skewers,seafood
+1042,Coconut Lime Fish Tacos,seafood
+1043,Seared Scallops with Pea Puree,seafood
+1044,Garlic Butter Lobster Tails,seafood
+1045,Smoked Paprika Cod,seafood
+1046,Chili Lime Tilapia,seafood
+1047,Mango Glazed Swordfish,seafood
+1048,Mediterranean Baked Halibut,seafood
+1049,Teriyaki Glazed Salmon,seafood
+1050,Smoky Tempeh Buddha Bowl,vegan
+1051,Curried Cauliflower Steaks,vegan
+1052,BBQ Jackfruit Sandwiches,vegan
+1053,Chickpea Spinach Curry,vegan
+1054,Coconut Lentil Dal,vegan
+1055,Grilled Portobello Burgers,vegan
+1056,Maple Roasted Brussels,vegan
+1057,Zesty Quinoa Stuffed Peppers,vegan
+1058,Sweet Potato Black Bean Tacos,vegan
+1059,Crispy Tofu Power Bowl,vegan
+1060,Banana Walnut Overnight Oats,breakfast
+1061,Savory Spinach Feta Muffins,breakfast
+1062,Cinnamon Swirl French Toast,breakfast
+1063,Blueberry Chia Yogurt Parfaits,breakfast
+1064,Smoked Salmon Bagel Board,breakfast
+1065,Caramelized Onion Quiche,breakfast
+1066,Greek Yogurt Pancakes,breakfast
+1067,Sweet Potato Breakfast Hash,breakfast
+1068,Maple Pecan Granola,breakfast
+1069,Avocado Egg Breakfast Toast,breakfast
+1070,Smoky Chipotle BBQ Ribs,grill
+1071,Honey Mustard Grilled Chicken,grill
+1072,Charred Vegetable Skewers,grill
+1073,Garlic Herb Grilled Steak,grill
+1074,Balsamic Portobello Burgers,grill
+1075,Grilled Pineapple Pork Chops,grill
+1076,Spicy Harissa Lamb Chops,grill
+1077,Teriyaki Glazed Chicken Thighs,grill
+1078,Cedar Plank Grilled Salmon,grill
+1079,Chimichurri Flank Steak,grill
